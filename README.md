@@ -5,7 +5,7 @@
 ### 🔐 Security
 - CTF player — picoCTF (Hard challenges solved)
 - PortSwigger Web Security Academy (in progress)
-- Tools: Burp Suite, Nmap, ExifTool
+- Tools: Burp Suite, Nmap, ExifTool, Metasploit, Hydra, Gobuster
 
 ### 💻 Development
 - MERN stack
