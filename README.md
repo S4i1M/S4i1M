@@ -5,14 +5,16 @@
 ### 🔐 Security
 - CTF player — picoCTF (Hard challenges solved)
 - PortSwigger Web Security Academy (in progress)
-- Tools: Burp Suite, Nmap, ExifTool, Metasploit, Hydra, Gobuster
+- Bug bounty hunter — HackerOne (VDP)
+- Tools: Burp Suite, Metasploit, Nmap, ExifTool
 
 ### 💻 Development
 - MERN stack
 - C, C++, Python
 
 ### 🔗 Open Source
-- [PR #413 merged into ericcames/sales.demos](https://github.com/ericcames/sales.demos/pull/413)
+- [Merged PR into ericcames/sales.demos](https://github.com/ericcames/sales.demos/pull/413) — documentation
+- [Prompt-injection regression tests PR](https://github.com/Ayorinha/ayorai-vision-intelligence/pull/21) — security test cases (Python/pytest)
 
 ### 📂 Projects
 - [CTF Crypto & Stego Toolkit](https://github.com/S4i1M/ctf-crypto-stego-toolkit) — Crypto/stego Swiss army knife for CTF challenges
