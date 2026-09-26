@@ -14,7 +14,7 @@
 
 ### 🔗 Open Source
 - [Merged PR into ericcames/sales.demos](https://github.com/ericcames/sales.demos/pull/413) — documentation
-- [Prompt-injection regression tests PR](https://github.com/Ayorinha/ayorai-vision-intelligence/pull/21) — security test cases (Python/pytest)
+- [Merged: prompt-injection regression tests](https://github.com/Ayorinha/ayorai-vision-intelligence/pull/21) — security test cases (Python/pytest)
 
 ### 📂 Projects
 - [CTF Crypto & Stego Toolkit](https://github.com/S4i1M/ctf-crypto-stego-toolkit) — Crypto/stego Swiss army knife for CTF challenges
