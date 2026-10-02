@@ -1,4 +1,4 @@
-## Hi, I'm S K Sriram 👋
+## Hi, I'm Sriram 👋
 
 2nd-year CS student focused on **application security** and **penetration testing**.
 
