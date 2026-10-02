@@ -15,6 +15,7 @@
 ### 🔗 Open Source
 - [Merged PR into ericcames/sales.demos](https://github.com/ericcames/sales.demos/pull/413) — documentation
 - [Merged: prompt-injection regression tests](https://github.com/Ayorinha/ayorai-vision-intelligence/pull/21) — security test cases (Python/pytest)
+- Security finding: [path-access restriction bypass in ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp/issues/18)
 
 ### 📂 Projects
 - [CTF Crypto & Stego Toolkit](https://github.com/S4i1M/ctf-crypto-stego-toolkit) — Crypto/stego Swiss army knife for CTF challenges
